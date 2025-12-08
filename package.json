@@ -5,7 +5,7 @@
   "main": "behr_colors.js",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build -m production",
     "preview": "vite preview"
   },
   "keywords": [],
